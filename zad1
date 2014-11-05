@@ -1,0 +1,8 @@
+read a
+read b
+if [ $a -le $b ]
+then
+echo $b
+else
+echo $a
+fi
