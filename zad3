@@ -1,0 +1,7 @@
+read a
+if [ $a -eq 0 ]
+then
+echo "Nie"
+else
+echo "TAK"
+fi
